@@ -49,6 +49,3 @@ The flow chart for the functions:
 ## Testing
 
 The provided test file (`MA2_test.py`) can be used to verify the functionality of the calculator:
-
-```bash
-python MA2_test.py
